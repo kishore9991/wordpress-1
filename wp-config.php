@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'admin' );
 
 /** Database username */
-define( 'DB_USER', 'admin' );
+define( 'DB_USER', 'mydb' );
 
 /** Database password */
-define( 'DB_PASSWORD', '123456789' );
+define( 'DB_PASSWORD', 'admin123' );
 
 /** Database hostname */
-define( 'DB_HOST', 'database-1.czaxtctt3zyr.ap-south-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'database-1.cc3dgc9qt4sb.eu-west-2.rds.amazonaws.co' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
